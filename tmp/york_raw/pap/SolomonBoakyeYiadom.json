@@ -1,0 +1,134 @@
+{
+ "query_url": "https://api.crossref.org/works?filter=from-pub-date%3A2024-01-01%2Ctype%3Ajournal-article&rows=60&mailto=research-outreach%40example.org&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Cabstract%2Ctype%2CURL&query.author=Solomon+Boakye-Yiadom",
+ "n": 7,
+ "candidates": [
+  {
+   "title": "Microstructural evolution and adiabatic shear band formation in tempered AISI 4340 steel under high strain rate and elevated temperature impact",
+   "year": 2025,
+   "journal": "Materials Today Communications",
+   "volume_issue_pages": "vol 49, pp 114059, art 114059",
+   "doi": "10.1016/j.mtcomm.2025.114059",
+   "authors_in_order": [
+    "Solomon Hanson Duntu",
+    "Solomon Boakye-Yiadom"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Rate dependence of high strength steels mechanical behavior: Characterization, modelling and impact applications",
+   "year": 2025,
+   "journal": "International Journal of Impact Engineering",
+   "volume_issue_pages": "vol 206, pp 105454, art 105454",
+   "doi": "10.1016/j.ijimpeng.2025.105454",
+   "authors_in_order": [
+    "Mohammad Mahdi Ghadiri",
+    "Joseph Agyapong",
+    "Solomon Boakye-Yiadom",
+    "Cuiying Jian"
+   ],
+   "prof_position": "middle (3 of 4)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Design and optimization of quinary high entropy alloy systems with single-phase microstructures from conventional alloy systems",
+   "year": 2025,
+   "journal": "Materials &amp; Design",
+   "volume_issue_pages": "vol 256, pp 114300, art 114300",
+   "doi": "10.1016/j.matdes.2025.114300",
+   "authors_in_order": [
+    "Joseph Agyapong",
+    "Yuxin Su",
+    "Jatin Chhabra",
+    "Aleksander Czekanski",
+    "Solomon Boakye-Yiadom"
+   ],
+   "prof_position": "last (5 of 5)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Process-structure-property relationships of binder jetted 17–4 PH stainless steel",
+   "year": 2025,
+   "journal": "Materials Characterization",
+   "volume_issue_pages": "vol 229, pp 115539, art 115539",
+   "doi": "10.1016/j.matchar.2025.115539",
+   "authors_in_order": [
+    "Meisam Khademitab",
+    "Sooraj Patel",
+    "Joseph Agyapong",
+    "Solomon Hanson Duntu",
+    "Julian E.C. Sabisch",
+    "Mike Heim",
+    "Antonio J. Gradi",
+    "Solomon Boakye-Yiadom",
+    "Iman Ghamarian",
+    "Amir Mostafaei"
+   ],
+   "prof_position": "middle (8 of 10)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Characterization and selection of a skull surrogate for the development of a biofidelic head model",
+   "year": 2024,
+   "journal": "Journal of the Mechanical Behavior of Biomedical Materials",
+   "volume_issue_pages": "vol 158, pp 106680, art 106680",
+   "doi": "10.1016/j.jmbbm.2024.106680",
+   "authors_in_order": [
+    "Tristan Tenio",
+    "Solomon Boakye-Yiadom"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Microstructural evolution and high strain rate deformation response of SLM-printed CoCrFeMnNi after annealing and deep-cryogenic treatment",
+   "year": 2024,
+   "journal": "Materials Characterization",
+   "volume_issue_pages": "vol 218, pp 114506, art 114506",
+   "doi": "10.1016/j.matchar.2024.114506",
+   "authors_in_order": [
+    "Joseph Agyapong",
+    "Aleksander Czekanski",
+    "Solomon Boakye Yiadom"
+   ],
+   "prof_position": "last (3 of 3)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Investigation of effects of process parameters on microstructure and fracture toughness of SLM CoCrFeMnNi",
+   "year": 2024,
+   "journal": "Journal of Alloys and Compounds",
+   "volume_issue_pages": "vol 987, pp 173998, art 173998",
+   "doi": "10.1016/j.jallcom.2024.173998",
+   "authors_in_order": [
+    "Joseph Agyapong",
+    "Diego Mateos",
+    "Aleksander Czekanski",
+    "Solomon Boakye-Yiadom"
+   ],
+   "prof_position": "last (4 of 4)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  }
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "query_url": "https://api.crossref.org/works?filter=from-pub-date%3A2024-01-01%2Ctype%3Ajournal-article&rows=60&mailto=research-outreach%40example.org&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Cabstract%2Ctype%2CURL&query.author=Andrew+Maxwell",
+ "n": 16,
+ "candidates": [
+  {
+   "title": "Comparing Spider Sampling Methods in a Eucalypt Forest in Wet and Dry Conditions",
+   "year": 2026,
+   "journal": "Animals",
+   "volume_issue_pages": "vol 16, issue 10, pp 1481",
+   "doi": "10.3390/ani16101481",
+   "authors_in_order": [
+    "Rachael Harris",
+    "Robert Raven",
+    "Andrew Maxwell",
+    "Peter J. Murray"
+   ],
+   "prof_position": "middle (3 of 4)",
+   "identity_evidence": [
+    "crossref-affiliation: School of Science, Engineering & Digital Technologies, University of Southern Queensland, Toowoomba 4350, Australia"
+   ],
+   "affiliation_matches": false,
+   "abstract": "Environmental variability, such as fluctuations in rainfall, can strongly influence spider population dynamics and assemblage composition. The study examined whether rainfall in the preceding three months, i.e., wet or dry conditions, using three different methods in the same sites within a eucalyptus forest, influenced the overall species and abundance of spiders captured and thus how wet or dry conditions influenced the overall spider assemblage and community structure. In south-east Queensland, Australia, rainfall is highly variable throughout the year and does not conform to distinct wet or dry seasons; therefore, “wet” and “dry” classifications in this study refer specifically to preceding rainfall conditions rather than seasonal categories. Sampling was conducted during dry conditions (75 mL of rain in the three months preceding collection) and during wet conditions (300 mL of rain in the three months preceding collection) to assess overall differences in spider richness, diversity and assemblage composition between wet and dry conditions by combining data from the three sampling methods. Species richness was significantly higher in dry conditions compared to the wet conditions. Diversity indices indicated that the more common spider species remained consistent between wet and dry conditions. Ordination analyses revealed changes between wet and dry conditions, primarily driven by fluctuations with less common spider species, rather than community changes at the family level. For vibration-based collections of spiders, only 30.5% of species overlapped between wet and dry conditions, whereas family-level overlap was 75%, indicating rainfall-driven changes occurred primarily at the species level rather than at the family level. Spider abundance was consistently higher under dry conditions across all methods. In vibration-based collections, 90% of species was collected within 60 min. However, using this method, species appeared more slowly under wet conditions, suggesting that rainfall may influence spider responses to vibrational stimuli. Survey method strongly influenced species richness with night hand collection of spiders resulting in the greatest number of species observed. Spider species richness and diversity collected using the vibration-based method were similar in wet and dry conditions and between sites. This supports the reliability of this method for sampling spiders that respond to vibrations and should be used complementarily with other survey methods.",
+   "abstract_source_url": "https://api.crossref.org/works/10.3390/ani16101481"
+  },
+  {
+   "title": "Changes of endotracheal tube cuff pressure and its indicators in laparoscopic resection of colorectal neoplasms: an observational prospective clinical trial. comment on: BMC anesthesiology. 2024 Nov 13;24(1):413",
+   "year": 2025,
+   "journal": "BMC Anesthesiology",
+   "volume_issue_pages": "vol 25, issue 1, art 180",
+   "doi": "10.1186/s12871-025-03056-4",
+   "authors_in_order": [
+    "Andrew Maxwell"
+   ],
+   "prof_position": "last (1 of 1)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Miraculous, and: Inherent",
+   "year": 2025,
+   "journal": "Colorado Review",
+   "volume_issue_pages": "vol 52, issue 3, pp 27-28",
+   "doi": "10.1353/col.2025.a974891",
+   "authors_in_order": [
+    "Andrew Maxwell"
+   ],
+   "prof_position": "last (1 of 1)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": "Abstract: A meditation concerning ineffability, silence, and the ways in which small moments seem to open toward eternity.",
+   "abstract_source_url": "https://api.crossref.org/works/10.1353/col.2025.a974891"
+  },
+  {
+   "title": "AB129. SOH25_AB_097. The effect of operating theatre lighting on pulse oximetry monitoring during surgery",
+   "year": 2025,
+   "journal": "Mesentery and Peritoneum",
+   "volume_issue_pages": "vol 9, pp AB129-AB129",
+   "doi": "10.21037/map-25-ab129",
+   "authors_in_order": [
+    "Andrew Maxwell",
+    "Gavin O’Connor"
+   ],
+   "prof_position": "first (1 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Ethnicity-Based Differences in Corneal Asphericity: Intraocular Lens Power Calculation, Image Quality, and Visual Acuity After Cataract Surgery Using Eye Models",
+   "year": 2025,
+   "journal": "Clinical Ophthalmology",
+   "volume_issue_pages": "vol Volume 19, pp 2463-2473",
+   "doi": "10.2147/opth.s527570",
+   "authors_in_order": [
+    "Kamal Das",
+    "Rajaraman Suryakumar",
+    "Wei Lu",
+    "Andrew Maxwell"
+   ],
+   "prof_position": "last (4 of 4)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Hyperventilation during rest and exercise in orthostatic intolerance and Spiky-Leaky Syndrome",
+   "year": 2025,
+   "journal": "Frontiers in Neurology",
+   "volume_issue_pages": "vol 16, art 1512671",
+   "doi": "10.3389/fneur.2025.1512671",
+   "authors_in_order": [
+    "Amir Hashemizad",
+    "Jerriel Dela Cruz",
+    "Aditya Narayan",
+    "Andrew J. Maxwell"
+   ],
+   "prof_position": "last (4 of 4)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": "Orthostatic intolerance, with or without postural orthostatic tachycardia syndrome (POTS), is collectively referred to as orthostatic intolerance dysautonomia syndromes (OIDS). This condition often presents with daytime hyperventilation, which is considered to be secondary to sympathetic hyperactivity. This hyperventilation appears to be a key characteristic in a newly described subset of patients with OIDS who also exhibit craniocervical instability, mast cell activation syndrome (MCAS), hypermobility spectrum disorder (HSD), and the phenomenon of alternating intracranial hypertension with hypotension due to cerebrospinal fluid (CSF) leaks, collectively termed Spiky-Leaky Syndrome (SLS). We performed a retrospective review of clinical metabolic exercise data in young patients with SLS, comparing them to matched patients with OIDS and healthy controls (CTL). We assessed metabolic parameters at rest, at the anaerobic threshold (AT), and at maximal oxygen consumption (VO 2 max). The parameters included end-tidal CO 2 (ETCO 2 ), end-tidal O 2 (ETO 2 ), peak oxygen pulse, total work performed, and peak oxygen uptake efficiency slope (OUESp). Of 323 reviewed exercise stress tests, 44 were conducted on patients with SLS, 210 on those with OIDS, and 53 on healthy controls. VO 2 max, AT, peak oxygen pulse, total work performed, and OUESp were all significantly reduced in patients with OIDS and were further reduced in those with SLS. ETCO 2 levels were notably lower at rest, at the time of the anaerobic threshold, and at the time of maximal oxygen uptake in the OIDS group, and even more so in the SLS group. These lower levels of ETCO 2 persisted throughout exercise. In contrast, ETO 2 demonstrated a similarly strong but opposite trend. Compared to the control group, patients with OIDS—and especially those with SLS—exhibited reduced metabolic parameters, particularly a decrease in peak oxygen pulse and ETCO 2 levels during both rest and exercise. These findings suggest a reduction in ventricular preload and chronic daytime hyperventilation. These exercise parameters may serve as markers for POTS physiology and sympathetic hyperactivity, both of which could play a role in the pathophysiology of SLS.",
+   "abstract_source_url": "https://api.crossref.org/works/10.3389/fneur.2025.1512671"
+  },
+  {
+   "title": "Non-adherence to immunosuppressive medications in kidney transplant recipients- a systematic scoping review",
+   "year": 2025,
+   "journal": "Transplantation Reviews",
+   "volume_issue_pages": "vol 39, issue 1, pp 100900, art 100900",
+   "doi": "10.1016/j.trre.2024.100900",
+   "authors_in_order": [
+    "Michael Corr",
+    "Andrew Walker",
+    "Alexander P. Maxwell",
+    "Gareth J. McKay"
+   ],
+   "prof_position": "middle (3 of 4)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Paraneoplastic pityriasis rubra pilaris: a systematic review",
+   "year": 2025,
+   "journal": "Clinical and Experimental Dermatology",
+   "volume_issue_pages": "vol 51, issue 3, pp 374-380",
+   "doi": "10.1093/ced/llaf472",
+   "authors_in_order": [
+    "James Gaston",
+    "Andrew Maxwell",
+    "Francis Yi Xing Lai",
+    "Senhong Lee"
+   ],
+   "prof_position": "middle (2 of 4)",
+   "identity_evidence": [
+    "crossref-affiliation: Department of Dermatology, Royal Melbourne Hospital , Melbourne, VIC ,"
+   ],
+   "affiliation_matches": false,
+   "abstract": "Paraneoplastic pityriasis rubra pilaris (PRP) is a rare and poorly defined chronic inflammatory skin condition. Recognition of its potential association with cancer is crucial to facilitate timely diagnosis and treatment. To summarize published literature on paraneoplastic PRP, with a focus on associated cancer types, latency periods, treatment outcomes and resolution following oncological management. A literature review was conducted following PRISMA guidelines using the MEDLINE, Embase, Cochrane Library and Web of Science databases. Search terms used were ‘pityriasis rubra pilaris’, ‘malignancy’, ‘cancer’ and ‘paraneoplastic’, and inclusion criteria were adults diagnosed with both cancer and probable paraneoplastic PRP. Two authors independently reviewed the titles and abstracts of all identified papers before the full text of potentially relevant studies was retrieved for further analysis. From 978 articles screened, 22 studies describing 23 adult patients were included. Solid tumours were implicated in 83% of cases (n = 19/23), with lung cancer the most common of these (n = 7/19, 37%). The median latency from PRP onset to cancer diagnosis was 9 weeks [interquartile range (IQR): 0.4–25.0]. Among 17 patients experiencing complete or partial resolution of PRP following treatment for their cancer, complete resolution occurred in 65% (n = 11/17), typically within a median of 11 weeks (IQR: 6.8–22.8). The overall mortality rate in evaluable cases was 16% (n = 3/19). In this systematic review, paraneoplastic PRP was associated with multiple types of cancer, both solid and haematological. Cancer screening should be considered in cases of atypical or treatment-refractory PRP. Further prospective studies are required to define predictive features and optimize diagnostic approaches.",
+   "abstract_source_url": "https://api.crossref.org/works/10.1093/ced/llaf472"
+  },
+  {
+   "title": "Comment on Miyamoto et al. Laryngopharyngeal Mucosal Injury Due to Nasogastric Tube Insertion during Cardiopulmonary Resuscitation: A Retrospective Cohort Study. J. Clin. Med. 2024, 13, 261",
+   "year": 2024,
+   "journal": "Journal of Clinical Medicine",
+   "volume_issue_pages": "vol 13, issue 12, pp 3447",
+   "doi": "10.3390/jcm13123447",
+   "authors_in_order": [
+    "Andrew Maxwell"
+   ],
+   "prof_position": "last (1 of 1)",
+   "identity_evidence": [
+    "crossref-affiliation: Department of Anaesthesia, Intensive Care and Pain Medicine, Cork University Hospital, Wilton, T12 DC4A Cork, Ireland"
+   ],
+   "affiliation_matches": false,
+   "abstract": "I read with great interest the study from Miyamoto et al [...]",
+   "abstract_source_url": "https://api.crossref.org/works/10.3390/jcm13123447"
+  },
+  {
+   "title": "If You Would",
+   "year": 2024,
+   "journal": "Colorado Review",
+   "volume_issue_pages": "vol 51, issue 1, pp 95-96",
+   "doi": "10.1353/col.2024.a922475",
+   "authors_in_order": [
+    "Andrew Maxwell"
+   ],
+   "prof_position": "last (1 of 1)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": "Abstract: A series of meditations on the words of Abba Joseph of Panephysis: “If you would, you could become all flame.”",
+   "abstract_source_url": "https://api.crossref.org/works/10.1353/col.2024.a922475"
+  },
+  {
+   "title": "Opioid-free versus opioid-sparing anaesthesia in ambulatory total hip arthroplasty. Comment on Br J Anaesth 2024; 132: 352–8",
+   "year": 2024,
+   "journal": "British Journal of Anaesthesia",
+   "volume_issue_pages": "vol 133, issue 2, pp 453-454",
+   "doi": "10.1016/j.bja.2024.04.057",
+   "authors_in_order": [
+    "Andrew Maxwell"
+   ],
+   "prof_position": "last (1 of 1)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "BEST STARTUP EXPERIENCE, AN IMMERSIVE MULTI-DISCIPLINARY EXPERIENTIAL EDUCATION",
+   "year": 2024,
+   "journal": "Proceedings of the Canadian Engineering Education Association (CEEA)",
+   "volume_issue_pages": "",
+   "doi": "10.24908/pceea.2023.17112",
+   "authors_in_order": [
+    "Maedeh Sedaghat",
+    "Andrew Maxwell"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": "This paper focuses on a multi-disciplinary design thinking experiential education activity called BEST Startup Experience (BSE) which was designed and developed to engage students in a structured learning journey to create innovative solutions and develop a viable business aligned with real-world sustainability challenges around United Nation Sustainable Development Goals (UNSDGs). The focus on UN SDGs was aligned with the York Academic Plan around undertaking activities that matter - not necessarily ventures that make money. This paper aims to study the impact of embedding design thinking EE activities in post-secondary courses on students’ learning through a reflection survey. In summary, based on the findings of this study, participants reported collaboration, communication, problem-solving, and personal growth as their most significant takeaways. BSE participants agreed that this experience provided them the chance to utilize the engineering design knowledge they learn in the classroom to address real-world projects and to make a personal impact on sustainability issues, both locally and globally.",
+   "abstract_source_url": "https://api.crossref.org/works/10.24908/pceea.2023.17112"
+  },
+  {
+   "title": "Analytical Model for Sparing Policy Analysis and Optimization for Space Habitat Operations",
+   "year": 2024,
+   "journal": "Journal of Spacecraft and Rockets",
+   "volume_issue_pages": "vol 61, issue 1, pp 6-15",
+   "doi": "10.2514/1.a35679",
+   "authors_in_order": [
+    "Andrew J. Maxwell",
+    "Koki Ho"
+   ],
+   "prof_position": "first (1 of 2)",
+   "identity_evidence": [
+    "crossref-affiliation: Georgia Institute of Technology, Atlanta, Georgia 30332"
+   ],
+   "affiliation_matches": false,
+   "abstract": "The inclusion of operational sparing policies in early system definition can ensure that spares’ allocations can optimally meet desired system reliabilities consistent with the planned maintenance of a crewed vehicle. This approach is critical for long-duration crewed missions where mass allocations are constrained and lack of safe abort contingencies limit options in the event of significant system degradation, especially in the environmental control and life support systems. This paper presents an analytical model for analyzing and optimizing sparing policies as part of an overall evaluation of the probability of sufficiency for a system configuration. The repair transition parameters are varied to change the state visitation probabilities that drive a change in the probability of sufficiency observed for a given mass allocation. These parameters are optimized using a particle swarm optimizer to identify the preferred strategy for a desired allocation mass.",
+   "abstract_source_url": "https://api.crossref.org/works/10.2514/1.a35679"
+  },
+  {
+   "title": "Relativistic and spin-orbit dynamics at nonrelativistic intensities in strong-field ionization",
+   "year": 2024,
+   "journal": "Physical Review A",
+   "volume_issue_pages": "vol 110, issue 3, art 033108",
+   "doi": "10.1103/physreva.110.033108",
+   "authors_in_order": [
+    "Andrew S. Maxwell",
+    "Lars Bojer Madsen"
+   ],
+   "prof_position": "first (1 of 2)",
+   "identity_evidence": [
+    "crossref-affiliation: Aarhus University"
+   ],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Vibration as a New Survey Method for Spiders",
+   "year": 2024,
+   "journal": "Animals",
+   "volume_issue_pages": "vol 14, issue 16, pp 2307",
+   "doi": "10.3390/ani14162307",
+   "authors_in_order": [
+    "Rachael Harris",
+    "Robert Raven",
+    "Andrew Maxwell",
+    "Peter J. Murray"
+   ],
+   "prof_position": "middle (3 of 4)",
+   "identity_evidence": [
+    "crossref-affiliation: School of Engineering, University of Southern Queensland, Toowoomba, QLD 4350, Australia"
+   ],
+   "affiliation_matches": false,
+   "abstract": "Spiders have important ecological roles as generalist predators, are a significant source of food for many other species, and are bioindicators of environmental health. However, spiders are poorly studied. Given their importance, a comparison of spider survey methods used to determine differences in spider diversity and abundance is required to understand their limitations and biases. A new survey method to attract spiders, based on vibration from an idling diesel tractor, was tested and compared to the traditional methods of pitfall trapping and hand collection of spiders at night. Across the three survey methods, there were, in total, 2294 spiders in 34 families, 138 genera, and 226 species identified. Spider species diversity and richness were significantly greater for spiders collected at night than from the other two methods (spiders collected in pitfall traps and attracted to vibration). The collection of spiders using the night collection and vibration-based methods were very similar in terms of labor required and material costs. Of all spider species identified, 80% were captured during hand collection, 30% through pitfall trapping, and 30% from vibration-based collection. Most species of spiders caught in pitfall traps were species known to be primarily ground-dwelling, whereas both arboreal and ground-dwelling spiders were collected at night and as a result of being attracted and collected using the vibration-based method.",
+   "abstract_source_url": "https://api.crossref.org/works/10.3390/ani14162307"
+  },
+  {
+   "title": "Advanced momentum sampling and Maslov phases for a precise semiclassical model of strong-field ionization",
+   "year": 2024,
+   "journal": "New Journal of Physics",
+   "volume_issue_pages": "vol 26, issue 2, pp 023025",
+   "doi": "10.1088/1367-2630/ad2410",
+   "authors_in_order": [
+    "Mads Brøndum Carlsen",
+    "Emil Hansen",
+    "Lars Bojer Madsen",
+    "Andrew Stephen Maxwell"
+   ],
+   "prof_position": "last (4 of 4)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": "Recollision processes are fundamental to strong-field physics and attoscience, thus models connecting recolliding trajectories to quantum amplitudes are a crucial part in furthering understanding of these processes. We report developments in the semiclassical path-integral-based Coulomb quantum-orbit strong-field approximation model for strong-field ionization by including an additional phase known as Maslov’s phase and implementing a new solution strategy via Monte-Carlo-style sampling of the initial momenta. In doing so, we obtain exceptional agreement with solutions to the time-dependent Schrödinger equation for hydrogen, helium, and argon. We provide an in-depth analysis of the resulting photoelectron momentum distributions for these targets, facilitated by the quantum-orbits arising from the solutions to the saddle-point equations. The analysis yields a new class of rescattered trajectories that includes the well-known laser-driven long and short trajectories, along with novel Coulomb-driven rescattered trajectories. By virtue of the precision of the model, it opens the door to detailed investigations of a plethora of strong-field phenomena such as photoelectron holography, laser-induced electron diffraction and high-order above threshold ionization.",
+   "abstract_source_url": "https://api.crossref.org/works/10.1088/1367-2630/ad2410"
+  }
+ ]
+}

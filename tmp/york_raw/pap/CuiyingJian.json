@@ -1,0 +1,181 @@
+{
+ "query_url": "https://api.crossref.org/works?filter=from-pub-date%3A2024-01-01%2Ctype%3Ajournal-article&rows=60&mailto=research-outreach%40example.org&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Cabstract%2Ctype%2CURL&query.author=Cuiying+Jian",
+ "n": 10,
+ "candidates": [
+  {
+   "title": "Free-Energy Mapping of Gas-Assisted Exfoliation Pathways for Graphene under Compressible Flow: Implications for High-Volume Nanocomposite Applications",
+   "year": 2026,
+   "journal": "ACS Applied Nano Materials",
+   "volume_issue_pages": "vol 9, issue 19, pp 9092-9104",
+   "doi": "10.1021/acsanm.6c01419",
+   "authors_in_order": [
+    "Saeed Arabha",
+    "Cuiying Jian",
+    "Ray Hixon",
+    "Reza Rizvi"
+   ],
+   "prof_position": "middle (2 of 4)",
+   "identity_evidence": [
+    "crossref-affiliation: Department of Mechanical Engineering, Lassonde School of Engineering York University"
+   ],
+   "affiliation_matches": true,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Advances in Graphene-Based Materials for Metal Ion Sensing and Wastewater Treatment: A Review",
+   "year": 2025,
+   "journal": "Environments",
+   "volume_issue_pages": "vol 12, issue 2, pp 43",
+   "doi": "10.3390/environments12020043",
+   "authors_in_order": [
+    "Akram Khalajiolyaie",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [
+    "crossref-affiliation: Department of Mechanical Engineering, York University, Toronto, ON M3J 1P3, Canada"
+   ],
+   "affiliation_matches": true,
+   "abstract": "Graphene-based materials, including graphene oxide (GO) and functionalized derivatives, have demonstrated exceptional potential in addressing environmental challenges related to heavy metal detection and wastewater treatment. This review presents the latest advancements in graphene-based electrochemical and fluorescence sensors, emphasizing their superior sensitivity and selectivity in detecting metal ions, such as Pb2⁺, Cd2⁺, and Hg2⁺, even in complex matrices. The key focus of this review is on the use of molecular dynamics (MD) simulations to understand and predict ion transport through graphene membranes, offering insights into their mechanisms and efficiency in removing contaminants. Particularly, this article reviews the effects of external conditions, pore radius, functionalization, and multilayers on water purification to provide comprehensive insights into filtration membrane design. Functionalized graphene membranes exhibit enhanced ion rejection through tailored electrostatic interactions and size exclusion effects, achieving up to 100% rejection rates for selected heavy metals. Multilayered and hybrid graphene composites further improve filtration performance and structural stability, enabling sustainable, large-scale water purification. However, challenges related to fabrication scalability, environmental impact, and cost remain. This review also highlights the importance of computational approaches and innovative material designs in overcoming these barriers, paving the way for future breakthroughs in graphene-based filtration technologies.",
+   "abstract_source_url": "https://api.crossref.org/works/10.3390/environments12020043"
+  },
+  {
+   "title": "Graph Neural Networks for Sustainable Energy: Predicting Adsorption in Aromatic Molecules",
+   "year": 2025,
+   "journal": "ChemEngineering",
+   "volume_issue_pages": "vol 9, issue 4, pp 85",
+   "doi": "10.3390/chemengineering9040085",
+   "authors_in_order": [
+    "Hasan Imani Parashkooh",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [
+    "crossref-affiliation: Department of Mechanical Engineering, York University, Toronto, ON M3J 1P3, Canada"
+   ],
+   "affiliation_matches": true,
+   "abstract": "The growing need for rapid screening of adsorption energies in organic materials has driven substantial progress in developing various architectures of equivariant graph neural networks (eGNNs). This advancement has largely been enabled by the availability of extensive Density Functional Theory (DFT)-generated datasets, sufficiently large to train complex eGNN models effectively. However, certain material groups with significant industrial relevance, such as aromatic compounds, remain underrepresented in these large datasets. In this work, we aim to bridge the gap between limited, domain-specific DFT datasets and large-scale pretrained eGNNs. Our methodology involves creating a specialized dataset by segregating aromatic compounds after a targeted ensemble extraction process, then fine-tuning a pretrained model via approaches that include full retraining and systematically freezing specific network sections. We demonstrate that these approaches can yield accurate energy and force predictions with minimal domain-specific training data and computation. Additionally, we investigate the effects of augmenting training datasets with chemically related but out-of-domain groups. Our findings indicate that incorporating supplementary data that closely resembles the target domain, even if approximate, would enhance model performance on domain-specific tasks. Furthermore, we systematically freeze different sections of the pretrained models to elucidate the role each component plays during adaptation to new domains, revealing that relearning low-level representations is critical for effective domain transfer. Overall, this study contributes valuable insights and practical guidelines for efficiently adapting deep learning models for accurate adsorption energy predictions, significantly reducing reliance on extensive training datasets.",
+   "abstract_source_url": "https://api.crossref.org/works/10.3390/chemengineering9040085"
+  },
+  {
+   "title": "Molecular insights into thermal conductivity alteration of graphene oxide-Nafion nanocomposite membranes",
+   "year": 2026,
+   "journal": "International Journal of Heat and Mass Transfer",
+   "volume_issue_pages": "vol 270, pp 129189, art 129189",
+   "doi": "10.1016/j.ijheatmasstransfer.2026.129189",
+   "authors_in_order": [
+    "Mahsheed Rayhani",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "A review of molecular dynamic simulation on polymer electrolyte membrane fuel cell",
+   "year": 2025,
+   "journal": "Journal of Power Sources",
+   "volume_issue_pages": "vol 657, pp 238143, art 238143",
+   "doi": "10.1016/j.jpowsour.2025.238143",
+   "authors_in_order": [
+    "Mahsheed Rayhani",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Mechanistic understanding of the functioning of two-layer graphene membranes at the nanoscale for wastewater treatment",
+   "year": 2025,
+   "journal": "Journal of Molecular Liquids",
+   "volume_issue_pages": "vol 420, pp 126833, art 126833",
+   "doi": "10.1016/j.molliq.2024.126833",
+   "authors_in_order": [
+    "Akram Khalajiolyaie",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Rate dependence of high strength steels mechanical behavior: Characterization, modelling and impact applications",
+   "year": 2025,
+   "journal": "International Journal of Impact Engineering",
+   "volume_issue_pages": "vol 206, pp 105454, art 105454",
+   "doi": "10.1016/j.ijimpeng.2025.105454",
+   "authors_in_order": [
+    "Mohammad Mahdi Ghadiri",
+    "Joseph Agyapong",
+    "Solomon Boakye-Yiadom",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (4 of 4)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Advancing wastewater treatment from cadmium contamination via functionalized graphene nanosheets",
+   "year": 2024,
+   "journal": "Journal of Water Process Engineering",
+   "volume_issue_pages": "vol 63, pp 105491, art 105491",
+   "doi": "10.1016/j.jwpe.2024.105491",
+   "authors_in_order": [
+    "Akram Khalajiolyaie",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "An innovative method for calculating partial molar volume from a standard molecular trajectory",
+   "year": 2024,
+   "journal": "Journal of Molecular Liquids",
+   "volume_issue_pages": "vol 395, pp 123879, art 123879",
+   "doi": "10.1016/j.molliq.2023.123879",
+   "authors_in_order": [
+    "Hasan Imani Parashkooh",
+    "Cuiying Jian"
+   ],
+   "prof_position": "last (2 of 2)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  },
+  {
+   "title": "Electrolyte engineering enabled hierarchical lithiophilic-lithiophobic host for high-voltage lithium-metal batteries",
+   "year": 2024,
+   "journal": "Energy Storage Materials",
+   "volume_issue_pages": "vol 65, pp 103192, art 103192",
+   "doi": "10.1016/j.ensm.2024.103192",
+   "authors_in_order": [
+    "Linshan Peng",
+    "Cuiying Jian",
+    "Xiangkun Wu",
+    "Yufei Ren",
+    "Jiayan Luo",
+    "Suojiang Zhang",
+    "Lan Zhang"
+   ],
+   "prof_position": "middle (2 of 7)",
+   "identity_evidence": [],
+   "affiliation_matches": false,
+   "abstract": null,
+   "abstract_source_url": null
+  }
+ ]
+}
